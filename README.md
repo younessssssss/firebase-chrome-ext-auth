@@ -35,9 +35,8 @@ To contribute to this project, follow these steps:
 
 ## Contact 📫
 
-If you want to contact me, you can reach me at `<hy.development.co@gmail.com>`.
+If you want to contact me, you can reach me at `hy.development.co@gmail.com`.
 
 ## License 📝
 
 This project uses the following license: `<license>`.
-
