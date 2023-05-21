@@ -39,4 +39,5 @@ If you want to contact me, you can reach me at `hy.development.co@gmail.com`.
 
 ## License 📝
 
-This project uses the following license: `<license>`.
+This project uses the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
