@@ -21,7 +21,7 @@ To use this project, follow these steps:
 
 ## Blog Post ✍️
 
-For a detailed walkthrough on how to implement Firebase authentication in a Chrome extension, check out the corresponding blog post on [MyBlogPostURL](#).
+For a detailed walkthrough on how to implement Firebase authentication in a Chrome extension, check out the corresponding blog post on [MyBlogPostURL](https://younessssssss.github.io/).
 
 ## Contributing to Firebase Authentication in Chrome Extensions 💡
 
@@ -35,10 +35,9 @@ To contribute to this project, follow these steps:
 
 ## Contact 📫
 
-If you want to contact me, you can reach me at `<YourEmail>`.
+If you want to contact me, you can reach me at `<hy.development.co@gmail.com>`.
 
 ## License 📝
 
 This project uses the following license: `<license>`.
 
-You might also consider adding a `Contributors` section if you're open to having others contribute to your project.
