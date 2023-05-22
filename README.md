@@ -36,6 +36,14 @@ To contribute to this project, follow these steps:
 ## Contact 📫
 
 If you want to contact me, you can reach me at ``.
+<script
+  type="text/javascript"
+  src="https://storage.ko-fi.com/cdn/widget/Widget_2.js"
+></script>
+<script type="text/javascript">
+  kofiwidget2.init("Donate to my blog", "#29abe0", "E1E3LJ4TH");
+  kofiwidget2.draw();
+</script>
 
 ## License 📝
 
