@@ -17,7 +17,7 @@ To use this project, follow these steps:
 2. Navigate to the project directory: `cd firebase-chrome-ext-auth`
 3. Install the required dependencies: `npm install`
 4. Update the Firebase configuration in `firebase.js` with your Firebase project settings.
-5. Run the project: `npm start`
+5. Run the project: `npm run dev`
 
 ## Blog Post ✍️
 
