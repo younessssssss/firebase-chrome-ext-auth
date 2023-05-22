@@ -13,7 +13,7 @@ Before you begin, ensure you have met the following requirements:
 
 To use this project, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/YourUserName/firebase-chrome-ext-auth.git`
+1. Clone this repository: `git clone https://github.com/younessssssss/firebase-chrome-ext-auth.git`
 2. Navigate to the project directory: `cd firebase-chrome-ext-auth`
 3. Install the required dependencies: `npm install`
 4. Update the Firebase configuration in `firebase.js` with your Firebase project settings.
@@ -21,7 +21,7 @@ To use this project, follow these steps:
 
 ## Blog Post ✍️
 
-For a detailed walkthrough on how to implement Firebase authentication in a Chrome extension, check out the corresponding blog post on [MyBlogPostURL](https://younessssssss.github.io/).
+For a detailed walkthrough on how to implement Firebase authentication in a Chrome extension, check out the corresponding blog post on [MyBlog](https://younessssssss.github.io/).
 
 ## Contributing to Firebase Authentication in Chrome Extensions 💡
 
@@ -35,7 +35,7 @@ To contribute to this project, follow these steps:
 
 ## Contact 📫
 
-If you want to contact me, you can reach me at `hy.development.co@gmail.com`.
+If you want to contact me, you can reach me at ``.
 
 ## License 📝
 
