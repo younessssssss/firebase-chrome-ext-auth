@@ -21,7 +21,7 @@ To use this project, follow these steps:
 
 ## Blog Post ✍️
 
-For a detailed walkthrough on how to implement Firebase authentication in a Chrome extension, check out the corresponding blog post on [MyBlog](https://younessssssss.github.io/).
+For a detailed walkthrough on how to implement Firebase authentication in a Chrome extension, check out the corresponding blog post on [MyBlog](https://younessssssss.github.io/chrome/extension/firebase/authentication/2023/05/21/authenticating-firebase-with-email-link-in-chrome-extension.html).
 
 ## Contributing to Firebase Authentication in Chrome Extensions 💡
 

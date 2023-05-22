@@ -1,4 +1,4 @@
-// UserProvider.js
+// UserProvider.jsx
 import { createContext, useState, useEffect } from "react";
 import { auth } from "../firebase";
 import { signInWithEmailLink } from "firebase/auth";
